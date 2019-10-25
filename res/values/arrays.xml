@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_array">
+        <item>@string/country_array_name1</item>
+        <item>@string/country_array_name2</item>
+        <item>@string/country_array_name3</item>
+        <item>@string/country_array_name4</item>
+        <item>@string/country_array_name5</item>
+        <item>@string/country_array_name6</item>
+        <item>@string/country_array_name7</item>
+        <item>@string/country_array_name8</item>
+        <item>@string/country_array_name9</item>
+        <item>@string/country_array_name10</item>
+        <item>@string/country_array_name11</item>
+        <item>@string/country_array_name12</item>
+        <item>@string/country_array_name13</item>
+        <item>@string/country_array_name14</item>
+        <item>@string/country_array_name15</item>
+        <item>@string/country_array_name16</item>
+        <item>@string/country_array_name17</item>
+        <item>@string/country_array_name18</item>
+        <item>@string/country_array_name19</item>
+        <item>@string/country_array_name20</item>
+    </string-array>
+</resources>

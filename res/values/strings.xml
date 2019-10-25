@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A2-Grzegorz.Wegrzynowicz</string>
+    <!--string name="title_activity_main">Name Database Activity</string>
+    <string name="title_activity_2">Name List Activity</string-->
+    
+    <string name="firstname_label">First Name</string>
+    <string name="lastname_label">Last Name</string>
+    <string name="gender_label">Gender</string>
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+    <string name="unknown_label">Unknown</string>
+    <string name="check_box_label">Employed</string>
+    <string name="country_label">Choose a country:</string>
+    <string name="country_name">Country</string>
+    <string name="yes_label">Yes</string>
+    <string name="no_label">No</string>
+    <string name="ok_label">OK</string>
+    <string name="clear_label">Clear</string>
+    <string name="list_label">List</string>
+    
+    <string name="fullname_label">Full Name</string>
+    <string name="colon">:</string>
+    <string name="comma">,</string>
+    
+    <string name="please_wait_label">Please wait</string>
+    
+    <string name="country_array_name1">Argentina</string>
+    <string name="country_array_name2">Austria</string>
+    <string name="country_array_name3">Brazil</string>
+    <string name="country_array_name4">Belgium</string>
+    <string name="country_array_name5">Canada</string>
+    <string name="country_array_name6">China</string>
+    <string name="country_array_name7">Denmark</string>
+    <string name="country_array_name8">England</string>
+    <string name="country_array_name9">Ecuador</string>
+    <string name="country_array_name10">France</string>
+    <string name="country_array_name11">Germany</string>
+    <string name="country_array_name12">Italy</string>
+    <string name="country_array_name13">Japan</string>
+    <string name="country_array_name14">Mexico</string>
+    <string name="country_array_name15">Portugal</string>
+    <string name="country_array_name16">Russia</string>
+    <string name="country_array_name17">Spain</string>
+    <string name="country_array_name18">Sweden</string>
+    <string name="country_array_name19">Turkey</string>
+    <string name="country_array_name20">United States</string>
+</resources>

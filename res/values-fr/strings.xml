@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A2-Grzegorz.Wegrzynowicz</string>
+    <!--string name="title_activity_main">Name Database Activity</string>
+    <string name="title_activity_2">Name List Activity</string-->
+    
+    <string name="firstname_label">Prénom</string>
+    <string name="lastname_label">Nom</string>
+    <string name="gender_label">Sexe</string>
+    <string name="male_label">Mâle</string>
+    <string name="female_label">Femelle</string>
+    <string name="unknown_label">Inconnu</string>
+    <string name="check_box_label">Employé</string>
+    <string name="country_label">Choisissez un pays:</string>
+    <string name="country_name">Paysy</string>
+    <string name="yes_label">Oui</string>
+    <string name="no_label">Aucun</string>
+    <string name="ok_label">Bien</string>
+    <string name="clear_label">Clair</string>
+    <string name="list_label">Ruse</string>
+    
+    <string name="fullname_label">Nom et Prénom</string>
+    <string name="colon">:</string>
+    <string name="comma">,</string>
+    
+    <string name="please_wait_label">S\'il vous plaît attendre</string>
+    
+    <string name="country_array_name1">Argentine</string> 
+    <string name="country_array_name2">Autriche</string> 
+    <string name="country_array_name3">Brésil</string> 
+    <string name="country_array_name4">Belgique</string> 
+    <string name="country_array_name5">Canada</string> 
+    <string name="country_array_name6">Chine</string> 
+    <string name="country_array_name7">Danemark</string> 
+    <string name="country_array_name8">Angleterre</string> 
+    <string name="country_array_name9">Équateur</string> 
+    <string name="country_array_name10">France</string> 
+    <string name="country_array_name11">Allemagne</string> 
+    <string name="country_array_name12">Italie</string> 
+    <string name="country_array_name13">Japon</string> 
+    <string name="country_array_name14">Mexique</string> 
+    <string name="country_array_name15">Portugal</string> 
+    <string name="country_array_name16">Russie</string> 
+    <string name="country_array_name17">Espagne</string> 
+    <string name="country_array_name18">Suède</string> 
+    <string name="country_array_name19">Turquie</string> 
+    <string name="country_array_name20">États-Unis</string>
+</resources>
